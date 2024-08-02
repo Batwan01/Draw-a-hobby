@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; }
+.chat-container { max-width: 600px; margin: 50px auto; }
+.chat-box { border: 1px solid #ccc; padding: 10px; border-radius: 5px; }
+.chat-bubble { padding: 10px; border-radius: 10px; margin-bottom: 10px; }
+.chat-bot { background-color: #f0f0f0; text-align: left; }
+.chat-user { background-color: #0084ff; color: white; text-align: right; }
+.chat-input { width: 100%; padding: 10px; margin-top: 10px; }
+.chat-button { width: 100%; padding: 10px; margin-top: 10px; background-color: #0084ff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+.voice-button { width: 100%; padding: 10px; margin-top: 10px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; }
